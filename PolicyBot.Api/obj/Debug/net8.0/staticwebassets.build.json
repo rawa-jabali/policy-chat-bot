@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8wLsnLs4QK4qoBYNosLJ0zXdAxXa8f+XiDnGMNNuCv0=",
+  "Source": "PolicyBot.Api",
+  "BasePath": "_content/PolicyBot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
