@@ -1,0 +1,31 @@
+# -----------------------
+# .NET / Visual Studio
+# -----------------------
+bin/
+obj/
+**/Debug/
+**/Release/
+.vs/
+
+# -----------------------
+# Secrets
+# -----------------------
+.env
+appsettings.*.json
+!appsettings.json
+
+# -----------------------
+# OS
+# -----------------------
+.DS_Store
+
+# -----------------------
+# AI / Data
+# -----------------------
+/data/
+/embeddings/
+/qdrant_data/
+*.db
+*.bin
+*.onnx
+*.pkl
